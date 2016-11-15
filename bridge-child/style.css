@@ -15,12 +15,6 @@ Template: bridge
 
 /*add space to menu on left side of logo*/
 
-/*this is a change*/
-
-p {
-  font-size: 200px;
-}
-
 #menu-left-menu a {
   padding: 0 30px;
 }
