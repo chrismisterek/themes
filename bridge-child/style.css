@@ -608,6 +608,14 @@ span.tweet_screen_name {
   top: 10px;
 }
 
+#border-tear .vc_single_image-wrapper.vc_box_border_grey {
+  width: 100%;
+}
+
+#border-tear img.vc_single_image-img.attachment-full {
+  width: 100%;
+}
+
 .git h3 {
   color: #0e3961;
   font-weight: 400;
